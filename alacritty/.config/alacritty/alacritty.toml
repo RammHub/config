@@ -1,0 +1,47 @@
+live_config_reload = true
+
+[font]
+size = 16.0
+
+[font.normal]
+family = "SFMono Nerd Font"
+style = "Regular"
+
+[window]
+startup_mode = "Windowed"
+decorations = "buttonless"
+dynamic_padding = true
+opacity = 0.95
+
+[window.padding]
+x = 15
+y = 12
+
+[window.dimensions]
+columns = 100
+lines = 30
+
+[shell]
+args = ['--login']
+program = "/bin/bash"
+
+[cursor]
+style = "Block"
+
+[colors.normal]
+black = "#21222c"
+red = "#ff5555"
+green = "#50fa7b"
+yellow = "#f1fa8c"
+blue = "#bd93f9"
+magenta = "#ff79c6"
+cyan = "#8be9fd"
+white = "#f8f8f2"
+
+[colors.primary]
+background = "#282a36"
+foreground = "#f8f8f2"
+
+[colors.cursor]
+text = "CellBackground"
+cursor = "CellForeground"
