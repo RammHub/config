@@ -1,0 +1,7 @@
+--vim.cmd([[set tags =./tags;]])
+--vim.cmd([[set tags +=~/.vim/tags/tags;]])
+--vim.cmd([[set tags +=~/.vim/tags/flashhw-castle-hw;]])
+--vim.cmd([[set tags +=~/.vim/tags/denali;]])
+--vim.cmd([[set tags +=~/.vim/tags/UVM;]])
+--vim.cmd([[set tags +=~/.vim/tags/cad_vipcat_lib]])
+vim.cmd([[set tags +=~/tags/flashhw-castle-hw;]])
